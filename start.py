@@ -1,4 +1,4 @@
-import fonksiyon as func
+import functions as func
 
 func.secim()
 

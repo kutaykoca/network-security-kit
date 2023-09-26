@@ -2,7 +2,7 @@ import functions as func
 
 func.secim()
 
-islem = input("\nNe Yapmak İstersin: ")
+islem = input("\nİşlem Seçiniz: ")
 
 while True:
 

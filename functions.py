@@ -4,8 +4,8 @@ import time
 
 def secim():
     os.system("clear")
-    figlet_kutay = pyfiglet.figlet_format("KUTAYKOCA  Hack - Tool", font="standard")
-    print(figlet_kutay + "versiyon 1.0\n\n")
+    figlet_kutay = pyfiglet.figlet_format("KUTAYKOCA  Network - Security - Kit", font="standard")
+    print(figlet_kutay + "version 1.0\n\n")
 
     print("1 - Mac Adresi Değiştirmek")
     print("2 - Bilgi Toplama")

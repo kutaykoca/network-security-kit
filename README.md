@@ -1,4 +1,4 @@
-# hack-tools
+# Network Security Kit
 
 Proje Açıklaması: Kali Linux üzerinde yaygın olarak kullanılan araçların bir arada toplandığı ve daha hızlı işlem için yazılmış hack aracı.
 
